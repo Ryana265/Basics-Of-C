@@ -1,4 +1,4 @@
-//Course id and Credit from user//
+//Course id and Credit from user
 #include <stdio.h>
 int main(){
     int cid;
